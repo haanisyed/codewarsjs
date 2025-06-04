@@ -1,2 +1,2 @@
 # codewarsjs
-codingwars.com javascript kata training
+codewars.com javascript kata training
